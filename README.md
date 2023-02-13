@@ -1,1 +1,1 @@
-# stock-price-forecasting
+In this project, I extracted huge stock price data on reliance and TCS company from the NSE website, then I did some Exploratory data analysis so I can easily understand the stock prices whether the trend is going up or down, seasonality, and some information about that company stocks, etc.. after that I performed some preprocessing steps on it, then I build multiple machine learning models on that cleaned data, finally LSTM model gave me the best performance so I used that best model and I forecasted n-no of days.
